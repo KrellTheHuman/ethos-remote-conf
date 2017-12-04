@@ -7,7 +7,7 @@ flags --cl-global-work 8192 --farm-recheck 200
                                                                                                                               
 # global hw settings
 maxgputemp 85
-globalfan 85
+globalfan 90
 autoreboot true
                                                                                                                               
 # panel name+secretname
