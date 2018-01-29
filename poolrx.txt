@@ -17,7 +17,7 @@ custompanel hyrulezelda1
 loc 7a50e4 u001r001
 loc 80f0ba u001r002
 loc 496f68 u001r003
-loc 5bdeb4 u001r004
+loc 4e81ff u001r004
                                                                                                                               
 # -----------------------------------------------------
                                                                                                                               
